@@ -1,4 +1,6 @@
 * {
   background-color: grey;
-  text-decoration-color: navy;
+}
+p {
+  color: navy;
 }
